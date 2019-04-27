@@ -1,0 +1,13 @@
+{
+  "name": "api_app1",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Sakitha Navod",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
